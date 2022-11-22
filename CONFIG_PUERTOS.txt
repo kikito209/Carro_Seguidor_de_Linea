@@ -1,0 +1,19 @@
+tiva 1:
+
+PA0/PA1 -> UART rx/tx
+
+PB0/PB1 -> UART
+
+tiva 2:
+
+PA0/PA1 -> UART rx/tx
+
+PE0/PE1/PE2/PE3 -> SALIDA DIGITAL (DRIVER DE MOTOR)
+
+PA6/PA7 -> SALIDA PARA EL PWM(CONTROL DE GIRO DEL MOTOR)
+
+PE4/PE5 ->??
+
+PB3/PB4/PB5/PB6 -> configurado como entrada (sensor infrarojo)
+
+
